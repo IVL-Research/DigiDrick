@@ -1,0 +1,1 @@
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickClient\DigiDrickClient\obj\Debug\DigiDrickClient.csprojResolveAssemblyReference.cache

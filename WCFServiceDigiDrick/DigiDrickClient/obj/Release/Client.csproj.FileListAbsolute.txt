@@ -1,0 +1,9 @@
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickClient\DigiDrickClient\bin\Release\DigiDrickClient.exe.config
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickClient\DigiDrickClient\bin\Release\DigiDrickClient.exe
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickClient\DigiDrickClient\bin\Release\DigiDrickClient.pdb
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickClient\DigiDrickClient\bin\Release\DigiDrickLib.dll
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickClient\DigiDrickClient\bin\Release\DigiDrickLib.pdb
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickClient\DigiDrickClient\bin\Release\DigiDrickLib.dll.config
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickClient\DigiDrickClient\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickClient\DigiDrickClient\obj\Release\DigiDrickClient.exe
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickClient\DigiDrickClient\obj\Release\DigiDrickClient.pdb

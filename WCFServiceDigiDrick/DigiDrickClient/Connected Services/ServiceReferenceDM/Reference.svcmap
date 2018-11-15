@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e6feead3-7b7a-4454-b1f7-ff29f2d02a57" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8080/DigiDrickModel" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="DigiDrickModel.wsdl" MetadataType="Wsdl" ID="3ea00578-0074-441d-a043-398d03b0cacd" SourceId="1" SourceUrl="http://localhost:8080/DigiDrickModel?wsdl" />
+    <MetadataFile FileName="DigiDrickModel1.wsdl" MetadataType="Wsdl" ID="5430e99a-64ad-4507-b495-77d091450e40" SourceId="1" SourceUrl="http://localhost:8080/DigiDrickModel?wsdl=wsdl0" />
+    <MetadataFile FileName="DigiDrickModel.xsd" MetadataType="Schema" ID="ab3a5ff8-2550-4199-941a-6220d72a5629" SourceId="1" SourceUrl="http://localhost:8080/DigiDrickModel?xsd=xsd1" />
+    <MetadataFile FileName="DigiDrickModel1.xsd" MetadataType="Schema" ID="7c396e59-3631-4909-9fe2-106a05470af8" SourceId="1" SourceUrl="http://localhost:8080/DigiDrickModel?xsd=xsd0" />
+    <MetadataFile FileName="DigiDrickModel.disco" MetadataType="Disco" ID="ccd7d1d8-93f1-42b8-bad6-d94d6e842ac8" SourceId="1" SourceUrl="http://localhost:8080/DigiDrickModel?disco" />
+    <MetadataFile FileName="DigiDrickModel2.xsd" MetadataType="Schema" ID="8b5ab88a-7ecd-46fe-8276-029300818271" SourceId="1" SourceUrl="http://localhost:8080/DigiDrickModel?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
