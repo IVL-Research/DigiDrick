@@ -6,7 +6,7 @@ Executable host found in /bin/release, to be run as administrator.
 
 ## DigiDrickClient
 Test client code to test the service methods hosted by DigiDrickHost. 
-Path string variables to local Python files need to be updatet in Client.cs  
+Path string variables to local Python files need to be updated in Client.cs  
 
 ## Python Files
 Stored PLS model and python scripts for loading the model and calculating DModX
