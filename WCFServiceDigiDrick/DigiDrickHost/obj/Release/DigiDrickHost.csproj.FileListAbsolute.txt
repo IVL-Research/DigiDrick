@@ -1,0 +1,9 @@
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickHost\DigiDrickHost\bin\Release\DigiDrickHost.exe.config
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickHost\DigiDrickHost\bin\Release\DigiDrickHost.exe
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickHost\DigiDrickHost\bin\Release\DigiDrickHost.pdb
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickHost\DigiDrickHost\bin\Release\DigiDrickLib.dll
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickHost\DigiDrickHost\bin\Release\DigiDrickLib.pdb
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickHost\DigiDrickHost\bin\Release\DigiDrickLib.dll.config
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickHost\DigiDrickHost\obj\Release\DigiDrickHost.csprojResolveAssemblyReference.cache
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickHost\DigiDrickHost\obj\Release\DigiDrickHost.exe
+C:\Users\joel0921\Documents\Visual Studio 2017\Projects\WcfServiceDigiDrick\DigiDrickHost\DigiDrickHost\obj\Release\DigiDrickHost.pdb
