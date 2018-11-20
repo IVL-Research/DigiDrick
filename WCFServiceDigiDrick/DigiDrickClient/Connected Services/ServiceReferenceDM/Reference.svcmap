@@ -18,15 +18,15 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://localhost:8080/DigiDrickModel" Protocol="http" SourceId="1" />
+    <MetadataSource Address="http://localhost:8081/DigiDrickModel" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="DigiDrickModel.wsdl" MetadataType="Wsdl" ID="3ea00578-0074-441d-a043-398d03b0cacd" SourceId="1" SourceUrl="http://localhost:8080/DigiDrickModel?wsdl" />
-    <MetadataFile FileName="DigiDrickModel1.wsdl" MetadataType="Wsdl" ID="5430e99a-64ad-4507-b495-77d091450e40" SourceId="1" SourceUrl="http://localhost:8080/DigiDrickModel?wsdl=wsdl0" />
-    <MetadataFile FileName="DigiDrickModel.xsd" MetadataType="Schema" ID="ab3a5ff8-2550-4199-941a-6220d72a5629" SourceId="1" SourceUrl="http://localhost:8080/DigiDrickModel?xsd=xsd1" />
-    <MetadataFile FileName="DigiDrickModel1.xsd" MetadataType="Schema" ID="7c396e59-3631-4909-9fe2-106a05470af8" SourceId="1" SourceUrl="http://localhost:8080/DigiDrickModel?xsd=xsd0" />
-    <MetadataFile FileName="DigiDrickModel.disco" MetadataType="Disco" ID="ccd7d1d8-93f1-42b8-bad6-d94d6e842ac8" SourceId="1" SourceUrl="http://localhost:8080/DigiDrickModel?disco" />
-    <MetadataFile FileName="DigiDrickModel2.xsd" MetadataType="Schema" ID="8b5ab88a-7ecd-46fe-8276-029300818271" SourceId="1" SourceUrl="http://localhost:8080/DigiDrickModel?xsd=xsd2" />
+    <MetadataFile FileName="DigiDrickModel1.disco" MetadataType="Disco" ID="45605d27-a2c5-418b-b90a-e5e671fd73f2" SourceId="1" SourceUrl="http://localhost:8081/DigiDrickModel?disco" />
+    <MetadataFile FileName="DigiDrickModel3.xsd" MetadataType="Schema" ID="8e142ac5-5fa9-4808-8bcc-a07addf16d0c" SourceId="1" SourceUrl="http://localhost:8081/DigiDrickModel?xsd=xsd1" />
+    <MetadataFile FileName="DigiDrickModel31.xsd" MetadataType="Schema" ID="4f963311-f92d-4bc2-82dd-24802f009288" SourceId="1" SourceUrl="http://localhost:8081/DigiDrickModel?xsd=xsd0" />
+    <MetadataFile FileName="DigiDrickModel32.xsd" MetadataType="Schema" ID="d1962e75-7006-47a3-af20-8dd04bf14599" SourceId="1" SourceUrl="http://localhost:8081/DigiDrickModel?xsd=xsd2" />
+    <MetadataFile FileName="DigiDrickModel2.wsdl" MetadataType="Wsdl" ID="9126513a-bf25-4b35-88a4-8f7597e25243" SourceId="1" SourceUrl="http://localhost:8081/DigiDrickModel?wsdl" />
+    <MetadataFile FileName="DigiDrickModel21.wsdl" MetadataType="Wsdl" ID="c78e9702-c267-4508-bd84-d061a1cb0d45" SourceId="1" SourceUrl="http://localhost:8081/DigiDrickModel?wsdl=wsdl0" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

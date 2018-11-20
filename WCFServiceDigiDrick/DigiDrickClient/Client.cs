@@ -38,7 +38,7 @@ namespace IVL.DigiDrick.Client
 
             // Client Configuration
             BasicHttpBinding binding = new BasicHttpBinding();
-            EndpointAddress address = new EndpointAddress("http://localhost:8080/DigiDrickModel");
+            EndpointAddress address = new EndpointAddress("http://localhost:8081/DigiDrickModel");
             
             using (DigiSimulator  = new DigiDrickClient.ServiceReferenceDM.DigiDrickModelClient(binding, address))
             {
