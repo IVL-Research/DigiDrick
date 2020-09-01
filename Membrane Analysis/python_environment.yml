@@ -1,0 +1,5 @@
+name: Anaconda3
+channels:
+  - defaults
+prefix: C:\Users\joel0921\AppData\Local\Continuum\Anaconda3\envs\Anaconda3
+
