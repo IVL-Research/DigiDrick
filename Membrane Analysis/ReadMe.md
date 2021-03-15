@@ -17,9 +17,9 @@ How to use
 8. Open MembraneAnalysis.ipynb and run the cells
 
 
-#Solutions to potential issues:
-##Q. It doesn't work to install the python_environment file!
-##A. Nevermind that, instead try running the cells and see what errors show up. It will say the some packages are missing.
+## Solutions to potential issues:
+### Q. It doesn't work to install the python_environment file!
+### A. Nevermind that, instead try running the cells and see what errors show up. It will say the some packages are missing.
 To install packages that show up missing - open an Anaconda Prompt and write: "conda install plotly" if the missing package is plotly.
 Some packages can have different names than what is printed in the error message. Google "install docx package anaconda" to find out what they are called.
 The following packages should be installed using anaconda prompt for all of the cells to be able to run (copy the commands below and run in anaconda prompt):
